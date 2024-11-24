@@ -73,3 +73,4 @@ Aplikasi ini terdiri dari beberapa komponen GUI yang memudahkan pengguna dalam m
    Muhammad Ridhoni Ilham - 2210010515
 
 ## Demo
+![Demo GIF](https://github.com/Ridhoni123/AplikasiPengelolaKontak/blob/main/img/Recording%202024-11-24%20211536.gif)
